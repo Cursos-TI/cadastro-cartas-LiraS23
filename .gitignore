@@ -1,0 +1,14 @@
+# Compilados e Binários
+*.exe
+*.o
+*.out
+*.dll
+
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
